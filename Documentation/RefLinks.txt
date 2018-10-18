@@ -1,0 +1,8 @@
+reference site: zingoy
+
+site map referable links: 
+https://www.zingoy.com/sitemap.xnl
+https://www.zingoy.com/robots.txt
+https://www.xml-sitemaps.com/
+
+ 
