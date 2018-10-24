@@ -9,3 +9,8 @@ Ruby installer:
 https://rubyinstaller.org/downloads/
 
  
+---
+
+other ref sites:
+nafa.in
+cansell.in
