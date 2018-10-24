@@ -1,0 +1,12 @@
+spring boot with jsp
+https://o7planning.org/en/11681/spring-boot-and-jsp-tutorial
+Spring boot jpa hibernate oracle 
+https://dzone.com/articles/spring-boot-jpa-hibernate-oracle
+spring boot hibernate search 
+https://www.mkyong.com/spring-boot/spring-boot-hibernate-search-example/
+spring boot hibernate crud operation 
+https://shakeelosmani.wordpress.com/2017/02/13/step-by-step-spring-boot-hibernate-crud-web-application-tutorial/
+spring boot jpa hiberate crud
+http://www.springboottutorial.com/spring-boot-crud-rest-service-with-jpa-hibernate
+spring boot jpa hiberanet mysql 
+https://www.concretepage.com/spring-boot/spring-boot-rest-jpa-hibernate-mysql-example
